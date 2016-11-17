@@ -1,0 +1,18 @@
+
+### Matthew's DZone RefCard
+http://refcardz.dzone.com/refcardz/apache-maven-2
+
+
+### Example Maven Projects
+The following are a set of links to more examples that showcase Maven in the real world
+
+#### Sonatype Examples
+These are sample projects that follow the Sonatype books.
+* http://www.sonatype.com/products/maven/documentation/book-defguide
+* 
+
+#### Ambient Examples
+These are examples that I use in my on-site Maven training.  They are updated frequently.
+* http://github.com/matthewmccullough/maven-training
+* 
+
